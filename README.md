@@ -33,9 +33,7 @@ Evaluation Results::
 
     WER: 10.29%
         CER: 3.98%
-        
-    Normalized WER: 10.29%
-        Normalized CER: 3.98%
+
 
 Sample Predictions and References:
 
