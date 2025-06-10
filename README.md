@@ -39,20 +39,20 @@ Evaluation Results::
 
 Sample Predictions and References:
 
-Reference : ہرژیمہ
-Prediction: تینگمہ
-
-Reference : بوہمہ
-Prediction: بوہمہ
-
-Reference : رگو
-Prediction: رگو
-
-Reference : چھیمہ
-Prediction: چھیمہ
-
-Reference : نیلم
-Prediction: نیلم
-
-Reference : ربیا
-Prediction: ربیا
+    Reference : ہرژیمہ
+    Prediction: تینگمہ
+    
+    Reference : بوہمہ
+    Prediction: بوہمہ
+    
+    Reference : رگو
+    Prediction: رگو
+    
+    Reference : چھیمہ
+    Prediction: چھیمہ
+    
+    Reference : نیلم
+    Prediction: نیلم
+    
+    Reference : ربیا
+    Prediction: ربیا
