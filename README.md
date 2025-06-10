@@ -35,7 +35,7 @@ Evaluation Results::
         CER: 3.98%
 
 
-Sample Predictions and References:
+Sample Predictions and References from Whisper Finetuning:
 
     Reference : ہرژیمہ
     Prediction: تینگمہ
@@ -54,3 +54,9 @@ Sample Predictions and References:
     
     Reference : ربیا
     Prediction: ربیا
+
+Training from scratch, GMM-HMM and TDNN experiment using Kaldi:
+
+![image](https://github.com/user-attachments/assets/d84d0cfe-ff23-4e1f-a9a0-9292445d3e95)
+
+
